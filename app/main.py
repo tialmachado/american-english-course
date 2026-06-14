@@ -11,7 +11,7 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 from sqlalchemy import func
 
-from app.db import Note, Progress, Session_, StudySession, get_session, init_db
+from app.db import CardReview, Flashcard, Note, Progress, Session_, StudySession, get_session, init_db
 from app.practice_viewer import asset_path as practice_asset_path, extract_to_html as practice_extract
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -43,6 +43,11 @@ def dashboard_page():
 @app.get("/favorites")
 def favorites_page():
     return FileResponse(STATIC_DIR / "favorites.html")
+
+
+@app.get("/flashcards")
+def flashcards_page():
+    return FileResponse(STATIC_DIR / "flashcards.html")
 
 
 # ---- Course files (PDFs, audio, video, docs) -----------------------
@@ -521,6 +526,188 @@ def list_favorites():
                 "updated_at": p.updated_at.isoformat() if p.updated_at else None,
             })
         return {"items": items, "total": len(items)}
+    finally:
+        s.close()
+
+
+# ---- Flashcards (SRS) ------------------------------------------------
+
+FLASHCARDS_DIR = ROOT / "data" / "flashcards"
+
+
+def _ensure_flashcards_loaded(course_id: str) -> int:
+    """Load cards from data/flashcards/<course>.json into the DB if not yet present.
+    Returns number of cards available for the course."""
+    f = FLASHCARDS_DIR / f"{course_id}.json"
+    if not f.exists():
+        return 0
+    s = get_session()
+    try:
+        existing = s.query(Flashcard).filter_by(course_id=course_id).count()
+        if existing > 0:
+            return existing
+        cards = json.loads(f.read_text())
+        for c in cards:
+            s.add(Flashcard(
+                course_id=course_id,
+                lesson_code=c["lesson_code"],
+                front=c["front"],
+                back=c.get("back", ""),
+                example=c.get("example", ""),
+                audio_path=c.get("audio_path", ""),
+                tags=",".join(c.get("tags", [])),
+            ))
+        s.commit()
+        return len(cards)
+    finally:
+        s.close()
+
+
+@app.get("/api/flashcards/decks")
+def flashcards_decks():
+    """List available decks (courses + lessons) and counts."""
+    decks = []
+    if not FLASHCARDS_DIR.exists():
+        return {"decks": decks}
+    for f in sorted(FLASHCARDS_DIR.glob("*.json")):
+        course_id = f.stem
+        _ensure_flashcards_loaded(course_id)
+        s = get_session()
+        try:
+            total = s.query(Flashcard).filter_by(course_id=course_id).count()
+            # Cards that have been reviewed at least once
+            from sqlalchemy import func
+            seen = (
+                s.query(func.count(CardReview.card_id))
+                 .join(Flashcard, Flashcard.id == CardReview.card_id)
+                 .filter(Flashcard.course_id == course_id).scalar()
+            ) or 0
+            # Cards due now
+            now = datetime.utcnow()
+            due = (
+                s.query(func.count(CardReview.card_id))
+                 .join(Flashcard, Flashcard.id == CardReview.card_id)
+                 .filter(Flashcard.course_id == course_id,
+                         CardReview.next_review_at <= now).scalar()
+            ) or 0
+            # New cards (no review yet)
+            new = total - seen
+            decks.append({
+                "course_id": course_id,
+                "total": total,
+                "due": due + new,
+                "new": new,
+                "learned": seen,
+            })
+        finally:
+            s.close()
+    return {"decks": decks}
+
+
+@app.get("/api/flashcards/due")
+def flashcards_due(course_id: str | None = None, limit: int = 20):
+    """Return next batch of due cards, mixing review + new."""
+    # Lazy-load the deck if not yet imported.
+    if course_id:
+        _ensure_flashcards_loaded(course_id)
+    else:
+        for f in FLASHCARDS_DIR.glob("*.json"):
+            _ensure_flashcards_loaded(f.stem)
+    s = get_session()
+    try:
+        now = datetime.utcnow()
+        # Cards due for review
+        q = s.query(Flashcard, CardReview).join(
+            CardReview, Flashcard.id == CardReview.card_id
+        ).filter(CardReview.next_review_at <= now)
+        if course_id:
+            q = q.filter(Flashcard.course_id == course_id)
+        due_rows = q.order_by(CardReview.next_review_at.asc()).limit(limit).all()
+
+        # New cards (no review yet)
+        from sqlalchemy import not_
+        seen_ids = s.query(CardReview.card_id).all()
+        seen_ids = {sid[0] for sid in seen_ids}
+        nq = s.query(Flashcard).filter(~Flashcard.id.in_(seen_ids) if seen_ids else True)
+        if course_id:
+            nq = nq.filter(Flashcard.course_id == course_id)
+        new_limit = max(1, limit - len(due_rows))
+        new_rows = nq.order_by(Flashcard.course_id, Flashcard.lesson_code, Flashcard.id).limit(new_limit).all()
+
+        cards = []
+        for fc, cr in due_rows:
+            cards.append(_serialize_card(fc, cr))
+        for fc in new_rows:
+            cards.append(_serialize_card(fc, None))
+        return {"cards": cards, "now": now.isoformat()}
+    finally:
+        s.close()
+
+
+def _serialize_card(fc: Flashcard, cr: CardReview | None) -> dict:
+    return {
+        "id": fc.id,
+        "course_id": fc.course_id,
+        "lesson_code": fc.lesson_code,
+        "front": fc.front,
+        "back": fc.back or "",
+        "example": fc.example or "",
+        "audio_path": fc.audio_path or "",
+        "tags": [t for t in (fc.tags or "").split(",") if t],
+        "is_new": cr is None,
+        "ease_factor": cr.ease_factor if cr else 2.5,
+        "interval_days": cr.interval_days if cr else 0,
+        "streak": cr.streak if cr else 0,
+        "reviews_total": cr.reviews_total if cr else 0,
+    }
+
+
+class CardReviewIn(BaseModel):
+    card_id: int
+    quality: int        # 0 (forgot) .. 5 (perfect)
+
+
+@app.post("/api/flashcards/review")
+def flashcards_review(p: CardReviewIn):
+    """Apply SM-2 update to a card and return its new schedule."""
+    s = get_session()
+    try:
+        fc = s.query(Flashcard).filter_by(id=p.card_id).one_or_none()
+        if not fc:
+            raise HTTPException(404, "card not found")
+        cr = s.query(CardReview).filter_by(card_id=p.card_id).one_or_none()
+        if not cr:
+            cr = CardReview(card_id=p.card_id, ease_factor=2.5,
+                            interval_days=0.0, streak=0, reviews_total=0)
+            s.add(cr)
+        # SM-2
+        q = max(0, min(5, p.quality))
+        now = datetime.utcnow()
+        streak  = cr.streak or 0
+        interval = cr.interval_days or 0.0
+        ease    = cr.ease_factor or 2.5
+        if q < 3:
+            cr.streak = 0
+            cr.interval_days = 0
+            next_at = now + timedelta(minutes=1)
+        else:
+            if streak == 0:
+                cr.interval_days = 1
+            elif streak == 1:
+                cr.interval_days = 6
+            else:
+                cr.interval_days = round(interval * ease)
+            cr.streak = streak + 1
+            next_at = now + timedelta(days=cr.interval_days)
+        cr.ease_factor = ease + (0.1 - (5 - q) * (0.08 + (5 - q) * 0.02))
+        if cr.ease_factor < 1.3:
+            cr.ease_factor = 1.3
+            cr.leech = 1
+        cr.next_review_at = next_at
+        cr.last_reviewed_at = now
+        cr.reviews_total = (cr.reviews_total or 0) + 1
+        s.commit()
+        return _serialize_card(fc, cr)
     finally:
         s.close()
 

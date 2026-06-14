@@ -171,14 +171,79 @@ PRINCIPAIS DECISÕES DE DESIGN
   • Single-user, local, offline.
 
 
-PRÓXIMAS IDEIAS (a implementar quando útil)
--------------------------------------------
-  • Importar JSON (já existe o exportar)
-  • Velocidade variável e loop A-B nos players (shadowing)
-  • Busca global por título / unidade
-  • "Próximo recomendado" no dashboard
-  • Empacotamento PyInstaller para rodar de pendrive sem instalar Python
-    (Mac/Windows binários, abre o servidor + browser ao clicar)
+PRÓXIMAS IMPLEMENTAÇÕES
+-----------------------
+Lista de evoluções planejadas, ordenadas por impacto no preparo para
+certificações (Cambridge / TOEFL / IELTS).
+
+TIER 1 — Maior impacto na retenção e nas habilidades
+....................................................
+
+  [ ] Flashcards SRS (Anki-style) para vocabulário
+      Vocab extraído do TG vira deck por curso. Algoritmo Leitner (3
+      caixas) ou SM-2: revê 10–15 cartões por dia, sistema espaça
+      baseado em acertos. Maior multiplicador de retenção que existe
+      pra estudo de língua.
+
+  [ ] Loop A-B + velocidade fina (0.5×–2×) no player
+      Seleciona dois pontos do áudio (click=A, click=B) e ele toca em
+      loop aquela frase. Essencial para shadowing (repetir junto pra
+      pronúncia).
+
+  [ ] Modo ditado
+      Toca o áudio do SB, você digita o que ouve, compara com o
+      script (já existe em Video/Practice/Audio Script/ ou no TG).
+      Treina listening + spelling + gramática junto.
+
+  [ ] Gravação da própria voz
+      Grava você lendo/falando (browser MediaRecorder), salva, você
+      compara depois com o áudio original. Self-grading + favoritar
+      pra revisitar.
+
+TIER 2 — Qualidade de vida que move a agulha
+............................................
+
+  [ ] Transcript sincronizado com áudio
+      Para SB Audio e PE: mostra o script (extraído dos PDFs) e
+      destaca a linha conforme toca. Click numa linha pula o áudio
+      pra ali. Pra shadowing fica imbatível.
+
+  [ ] Busca de palavra/frase pela coleção
+      Digita "anyway", vê todas as ocorrências em SB/WB/TG dos 6
+      cursos com contexto. Útil pra entender uso real e collocations.
+
+  [ ] Modo simulação de prova
+      Cronômetro + bloqueia favoritos/notas durante a "prova", pega
+      listening e reading dos próprios SB. Útil semanas antes do
+      Cambridge / TOEFL.
+
+TIER 3 — Bom mas opcional
+.........................
+
+  [ ] Sound Bank ligado por símbolo fonético
+      Clica num /ʃ/ num tópico de aula, toca o áudio do Sound Bank
+      do SB.
+
+  [ ] Daily review
+      Ao fazer check-in, o sistema sugere "revise 3 momentos da
+      semana passada" (pega steps marcados há 7 dias).
+
+  [ ] Reading speed tracker em textos do SB
+      Cronometra, calcula WPM, mostra evolução.
+
+  [ ] Export Anki (.apkg)
+      Se você já usa Anki em paralelo.
+
+  [ ] Phrasal verbs / idioms drill específico
+      TG marca eles em quase toda aula — vira uma lista filtrável.
+
+  [ ] Empacotamento PyInstaller para rodar de pendrive
+      Sem instalar Python (binários Mac/Windows, abre servidor +
+      browser ao clicar).
+
+  [ ] Importar JSON de progresso (já existe o exportar)
+
+  [ ] "Próximo recomendado" no dashboard
 
 
 CONTEÚDO INDEXADO
