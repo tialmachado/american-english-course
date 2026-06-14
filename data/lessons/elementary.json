@@ -1,0 +1,2232 @@
+{
+  "id": "elementary",
+  "title": "Elementary",
+  "cefr": "A1/A2",
+  "sb_pdf_path": "AEF 1 elementary/SB.pdf",
+  "tg_pdf_path": "AEF 1 elementary/TG.pdf",
+  "wb_pdf_path": "AEF 1 elementary/WB.pdf",
+  "lessons": [
+    {
+      "file": 1,
+      "code": "1A",
+      "type": "lesson",
+      "title": "Welcome to the class",
+      "sb_page": 6,
+      "tg_page": 12,
+      "topics": {},
+      "wb_page": 4,
+      "summary": "The context of this first lesson is a young man who meets a woman at a salsa class. He then introduces her to his friend, who clearly likes her and joins the class. The lesson opens with five conversations where you practice basic greetings and asking names. You then focus on the grammar of the verb be in positive sentences and on subject pronouns. In Pronunciation, you're introduced to word stress and the American English File system of teaching English sounds, starting with six vowel sounds. A vocabulary focus covers the days of the week and the numbers 0–20, and the lesson closes with a listening and speaking activity that pulls all the strands together.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "LISTENING & SPEAKING",
+          "subtitle": "recognizing names",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "verb be + , subject pronouns",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "PRONUNCIATION",
+          "subtitle": "vowel sounds, word stress",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "VOCABULARY",
+          "subtitle": "days of the week, numbers 0–20",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "LISTENING & SPEAKING",
+          "subtitle": "recognizing places",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Hello, Goodbye",
+        "artist": "The Beatles",
+        "why": "Verb be + greetings."
+      }
+    },
+    {
+      "file": 1,
+      "code": "1B",
+      "type": "lesson",
+      "title": "One world",
+      "sb_page": 8,
+      "tg_page": 17,
+      "topics": {},
+      "wb_page": 6,
+      "summary": "The context of this lesson is the Olympics, a time when people from many nationalities gather in one place. You complete your study of the verb be and learn how to say where you and other people are from. You start by learning vocabulary for countries and nationalities, and practice that language in a world quiz. Pronunciation then covers the schwa /ə/ — a sound that shows up in many English words — and three consonant sounds that can be tricky depending on your native language. The Grammar section (be in negative sentences and questions) is presented through three interviews between a journalist and sports fans from different countries. You then practice asking where people are from. A second Vocabulary section introduces numbers 21–100, and a Pronunciation and Listening section focuses on word stress in numbers and practices them through listening and playing Bingo.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "countries",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "PRONUNCIATION",
+          "subtitle": "/ə/",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "GRAMMAR",
+          "subtitle": "verb be − and ?",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "VOCABULARY",
+          "subtitle": "numbers 21–100",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "PRONUNCIATION & LISTENING",
+          "subtitle": "word stress",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Where Are You Now?",
+        "artist": "Mumford & Sons",
+        "why": "Países / where are you from? he/she/it."
+      }
+    },
+    {
+      "file": 1,
+      "code": "1C",
+      "type": "lesson",
+      "title": "What’s your email?",
+      "sb_page": 10,
+      "tg_page": 22,
+      "topics": {},
+      "wb_page": 8,
+      "summary": "The context for this lesson is the classroom and signing up for an English course. The lesson opens with classroom language, which helps you understand and respond to common classroom instructions and ask the teacher for information and clarification in English. You then learn the pronunciation of the alphabet and practice it with common abbreviations. You listen to a Skype interview with a student and a teacher at a language school in the United States and learn how to give personal information and spell. This leads into the grammar focus on possessive adjectives. Everything comes together in the final activities: a communication task where you discover the real names of some actors and singers, and a writing focus where you complete an application form for a visa.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "classroom language",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "PRONUNCIATION",
+          "subtitle": "/oʊ/",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "LISTENING & SPEAKING",
+          "subtitle": "understanding",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "GRAMMAR",
+          "subtitle": "possessive adjectives: my, your, etc",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "WRITING",
+          "subtitle": "completing a form",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "What's My Name",
+        "artist": "Snoop Dogg",
+        "why": "Personal info, possessive adjectives (my, your)."
+      }
+    },
+    {
+      "file": 1,
+      "code": "PE1",
+      "type": "practical_english",
+      "episode": 1,
+      "title": "Checking in",
+      "sb_page": 12,
+      "tg_page": 27,
+      "topics": {},
+      "wb_page": 10,
+      "summary": "This is the first of six Practical English lessons (one every other File) that teach you functional language for travel and social situations. The content is built around video, with an audio version available too. There's a storyline with two recurring characters: Rob Walker, a British journalist for a magazine called London 24seven, and Jenny Zielinski, who works in the New York office of the same magazine and is on a work trip to London. You meet them for the first time in this lesson, when Jenny arrives in the UK and checks into a hotel. The focus is on hotel vocabulary and the language of checking in. In the You say sections, you'll watch or listen and then repeat what the speakers say.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "in a hotel",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "INTRODUCTION",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "CHECKING IN",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "JENNY TALKS TO ROB",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Hotel Yorba",
+        "artist": "The White Stripes",
+        "why": "Checking in / vocabulary de hotel."
+      }
+    },
+    {
+      "file": 2,
+      "code": "2A",
+      "type": "lesson",
+      "title": "Are you neat or messy?",
+      "sb_page": 14,
+      "tg_page": 30,
+      "topics": {},
+      "wb_page": 12,
+      "summary": "Two rooms — one very neat, one very messy — where the well-known authors Virginia Woolf and Ian Rankin wrote their books provide the context for both vocabulary and grammar. You start by looking at photos of these rooms, full of objects, and then learn more words for everyday things. You then learn the grammar of singular and plural nouns and focus on the pronunciation of final -s or -es in plurals. A second vocabulary focus covers how to use in, on, and under, and everything is practiced in Speaking and Listening.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "things",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "singular and plural nouns",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "PRONUNCIATION",
+          "subtitle": "final -s and -es",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "VOCABULARY & SPEAKING",
+          "subtitle": "in, on, under",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "LISTENING",
+          "subtitle": "listening for detail",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "My Room",
+        "artist": "Boris Gardiner",
+        "why": "Coisas em casa, neat / messy room."
+      }
+    },
+    {
+      "file": 2,
+      "code": "2B",
+      "type": "lesson",
+      "title": "Made in America",
+      "sb_page": 16,
+      "tg_page": 33,
+      "topics": {},
+      "wb_page": 14,
+      "summary": "Iconic aspects of the US introduce common adjectives and their grammatical position, and you learn to give simple descriptions. You start with a vocabulary focus on common adjectives. The grammar of adjectives is presented through a quiz about American icons that includes familiar adjective + noun phrases such as the White House and New York. After grammar practice, you move on to a pronunciation focus on long and short vowel sounds, which also recycles the adjectives. You then do a picture-difference activity, before reading an article about the differences between British and American English.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "colors, adjectives",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "adjectives",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "PRONUNCIATION",
+          "subtitle": "long and short vowel sounds",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "READING",
+          "subtitle": "identifying paragraph headings",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Born in the U.S.A.",
+        "artist": "Bruce Springsteen",
+        "why": "Adjetivos + ícones americanos."
+      }
+    },
+    {
+      "file": 2,
+      "code": "2C",
+      "type": "lesson",
+      "title": "Slow down!",
+      "sb_page": 18,
+      "tg_page": 36,
+      "topics": {},
+      "wb_page": 16,
+      "summary": "You start by learning adjectives that describe states and feelings (e.g., hungry, happy). You then listen to a series of conversations between a couple with a baby driving on vacation — the husband gets increasingly irritated, the child tired and hungry, as the trip goes on. This sets the context for more imperatives (you've already met some in Classroom language) and for making suggestions starting with Let's…. A speaking activity has you role-play different situations and ask each other what's wrong. A pronunciation focus on connected speech helps you understand native speakers, and the lesson ends with a video listening about safe car trips.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "complete",
+          "label": "Completar a aula",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Slow Down",
+        "artist": "Selena Gomez",
+        "why": "Título = ‘Slow Down’; imperativos."
+      }
+    },
+    {
+      "file": 2,
+      "code": "R&C 1&2",
+      "type": "review",
+      "title": "Review and Check 1 & 2",
+      "sb_page": 20,
+      "covers_files": [
+        1,
+        2
+      ],
+      "tg_page": 0,
+      "topics": {},
+      "summary": "Revisão dos Files 1 e 2: consolidação de gramática, vocabulário, pronúncia, listening e leitura. Inclui exercícios de Can you…?, listening, leitura e teste de comunicação oral.",
+      "summary_source": "topics",
+      "steps": [
+        {
+          "id": "vocab",
+          "label": "VOCABULARY",
+          "type": "section"
+        },
+        {
+          "id": "gram",
+          "label": "GRAMMAR",
+          "type": "section"
+        },
+        {
+          "id": "pron",
+          "label": "PRONUNCIATION",
+          "type": "section"
+        },
+        {
+          "id": "read",
+          "label": "CAN YOU understand this text?",
+          "type": "section"
+        },
+        {
+          "id": "listen",
+          "label": "CAN YOU understand these people?",
+          "type": "section"
+        }
+      ]
+    },
+    {
+      "file": 3,
+      "code": "3A",
+      "type": "lesson",
+      "title": "America: the good and the bad",
+      "sb_page": 22,
+      "tg_page": 40,
+      "topics": {},
+      "wb_page": 18,
+      "summary": "Different aspects of life in the United States provide the context for meeting the simple present for the first time. You start by learning a group of common verb phrases, then read a short text where an engineer writes what she likes about the United States — that's where you see how verb forms change for positive and negative sentences and in the third person singular (question forms come separately in 3B). You then practice the pronunciation of verb + -s or -es, plus the vocabulary and grammar, talking about yourself and about a partner. The lesson ends with Reading and Speaking: you read a text adapted from an American newspaper in which Americans who live abroad say what they think about other countries, and you compare it with what you think about your own country.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "verb phrases",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "simple present +  and −",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "PRONUNCIATION",
+          "subtitle": "third person -s",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "READING",
+          "subtitle": "identifying attitude",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "We Didn't Start the Fire",
+        "artist": "Billy Joel",
+        "why": "Vida nos EUA + presente simples + tons de vocab."
+      }
+    },
+    {
+      "file": 3,
+      "code": "3B",
+      "type": "lesson",
+      "title": "9 to 5",
+      "sb_page": 24,
+      "tg_page": 44,
+      "topics": {},
+      "wb_page": 20,
+      "summary": "The topic is jobs and work. You start by reading an interview that presents simple-present questions in both second and third person singular (Do you…? Does he…?). You then learn the vocabulary for common jobs and how to say what you do. A pronunciation focus covers the /ər/ sound. You listen to a radio program where competitors try to guess first a man's job, then his wife's. You then practice by asking simple-present questions about imaginary jobs, and the lesson finishes with asking third-person questions to guess someone's job.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "GRAMMAR",
+          "subtitle": "simple present ?",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "VOCABULARY",
+          "subtitle": "jobs",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "PRONUNCIATION",
+          "subtitle": "/ər/",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "LISTENING",
+          "subtitle": "understanding specific information",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Working 9 to 5",
+        "artist": "Dolly Parton",
+        "why": "Jobs + perguntas no simple present."
+      }
+    },
+    {
+      "file": 3,
+      "code": "3C",
+      "type": "lesson",
+      "title": "Love me, love my dog",
+      "sb_page": 26,
+      "tg_page": 49,
+      "topics": {},
+      "wb_page": 22,
+      "summary": "The lesson opens with a listening in which two characters, Becca and Dave, meet for the first time — a context for asking lots of questions to get to know someone. You then look at the grammar of word order in questions, especially those starting with question words. A vocabulary stage reviews and expands your knowledge of question words, and in Pronunciation you practice the rhythm of questions. A Speaking activity has you ask a variety of questions, and the lesson ends with Writing as you learn to write a personal profile.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "LISTENING",
+          "subtitle": "identifying who’s who",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "word order in questions",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "VOCABULARY",
+          "subtitle": "question words",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "PRONUNCIATION",
+          "subtitle": "sentence stress",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "WRITING",
+          "subtitle": "a personal profile",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Who Loves You",
+        "artist": "Frankie Valli",
+        "why": "Questões com question words + know somebody."
+      }
+    },
+    {
+      "file": 3,
+      "code": "PE2",
+      "type": "practical_english",
+      "episode": 2,
+      "title": "Buying a coffee",
+      "sb_page": 28,
+      "tg_page": 52,
+      "topics": {},
+      "wb_page": 24,
+      "summary": "In this lesson, you learn to tell the time and how to order a coffee (or other drink) in a coffee shop or bar. The Rob and Jenny story develops: they meet at the hotel and go to buy take-out coffee. They then go to the office, where Jenny meets Karen, the administrator, and Daniel, the boss.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "telling the time",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "ROB AND JENNY MEET",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "BUYING A COFFEE",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "FIRST DAY IN THE OFFICE",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Black Coffee",
+        "artist": "Peggy Lee",
+        "why": "Buying a coffee."
+      }
+    },
+    {
+      "file": 4,
+      "code": "4A",
+      "type": "lesson",
+      "title": "Family photos",
+      "sb_page": 30,
+      "tg_page": 55,
+      "topics": {},
+      "wb_page": 26,
+      "summary": "The main context is pictures of people in the public eye photographed with a family member or partner who isn't well known — a natural setup for the grammar of the possessive 's (e.g., Who is he? He's Brad Pitt's brother.) and the question word Whose…?. You then learn the vocabulary of family members, which leads into a focus on the /ʌ/ sound and the most common pronunciations of the letter o. The lesson ends with you listening to a woman showing her friend photos of her family, and then doing the same yourself.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "GRAMMAR",
+          "subtitle": "possessive ’s, Whose…?",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "VOCABULARY",
+          "subtitle": "family",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "PRONUNCIATION",
+          "subtitle": "/ʌ/, the letter o",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "LISTENING & SPEAKING",
+          "subtitle": "identifying the",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Family Affair",
+        "artist": "Sly & The Family Stone",
+        "why": "Família + possessive 's."
+      }
+    },
+    {
+      "file": 4,
+      "code": "4B",
+      "type": "lesson",
+      "title": "From morning to night",
+      "sb_page": 32,
+      "tg_page": 58,
+      "topics": {},
+      "wb_page": 28,
+      "summary": "This lesson is based on the daily routine of two real people with busy lives: Marjan Jahangiri, a professor of cardiac surgery in London (the article about her appeared in The Sunday Times), and her son Darius, who is in his last year of high school. You start by learning verb phrases for talking about daily routines. A pronunciation focus on linking helps you understand spoken English. You then read about Marjan's day and listen to an interview with her son, and decide whose day is more tiring. A grammar focus covers prepositions of time and place, which are common when describing a typical day. The lesson ends with a Speaking activity where you talk about your typical weekdays, then write a description of your favorite day of the week. This lesson also reviews telling the time (covered in Practical English Episode 2).",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "daily routine",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "PRONUNCIATION",
+          "subtitle": "linking",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "READING & LISTENING",
+          "subtitle": "inferring feelings",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "GRAMMAR",
+          "subtitle": "prepositions of time and place",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "SPEAKING & WRITING",
+          "subtitle": "an article",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Manic Monday",
+        "artist": "The Bangles",
+        "why": "Rotina diária + prepositions of time."
+      }
+    },
+    {
+      "file": 4,
+      "code": "4C",
+      "type": "lesson",
+      "title": "Blue Zones",
+      "sb_page": 34,
+      "tg_page": 62,
+      "topics": {},
+      "wb_page": 30,
+      "summary": "The topic is lifestyle choices that may determine whether you have a longer or shorter life. You start by learning the vocabulary for months and adverbs and expressions of frequency. A recent study investigating why American teenagers may not live as long as their parents provides the context for learning the word order with adverbs and expressions of frequency. Pronunciation focuses on the letter h. In the second half, you read about the so-called \"Blue Zones\" — five places in the world with very high proportions of centenarians — and about the lifestyles in two of them, comparing them to your own country. The lesson ends with a video listening about a third Blue Zone, Okinawa, in Japan.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "complete",
+          "label": "Completar a aula",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Forever Young",
+        "artist": "Alphaville",
+        "why": "Lifestyle, longevidade; tema das Blue Zones."
+      }
+    },
+    {
+      "file": 4,
+      "code": "R&C 3&4",
+      "type": "review",
+      "title": "Review and Check 3 & 4",
+      "sb_page": 36,
+      "covers_files": [
+        3,
+        4
+      ],
+      "tg_page": 0,
+      "topics": {},
+      "summary": "Revisão dos Files 3 e 4: consolidação de gramática, vocabulário, pronúncia, listening e leitura. Inclui exercícios de Can you…?, listening, leitura e teste de comunicação oral.",
+      "summary_source": "topics",
+      "steps": [
+        {
+          "id": "vocab",
+          "label": "VOCABULARY",
+          "type": "section"
+        },
+        {
+          "id": "gram",
+          "label": "GRAMMAR",
+          "type": "section"
+        },
+        {
+          "id": "pron",
+          "label": "PRONUNCIATION",
+          "type": "section"
+        },
+        {
+          "id": "read",
+          "label": "CAN YOU understand this text?",
+          "type": "section"
+        },
+        {
+          "id": "listen",
+          "label": "CAN YOU understand these people?",
+          "type": "section"
+        }
+      ]
+    },
+    {
+      "file": 5,
+      "code": "5A",
+      "type": "lesson",
+      "title": "Vote for me!",
+      "sb_page": 38,
+      "tg_page": 67,
+      "topics": {},
+      "wb_page": 32,
+      "summary": "This lesson is based on TV shows like The X Factor, where amateur musicians compete in the hope of winning and becoming famous. You start with more verb phrases. Then a picture story of a contestant waiting for her first audition (based on a real participant's blog) introduces sentences with can. Can is a very versatile verb in English, used to express ability, possibility, permission, and to make requests. You've already met can for requests and permission in Practical English 1, so you should be familiar with it. In the second half, special attention goes to the pronunciation of can and can't when stressed and unstressed. You then practice orally with a questionnaire.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "YOU WANT A PHOTOCOPY",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "LISTENING",
+          "subtitle": "focusing on practical information",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "YOU WANT ANOTHER PERSON TO SIGN SOMETHING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "YOU WANT ANOTHER PERSON TO OPEN THE WINDOW",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "why": "Can; verb phrases + visão de mundo."
+      }
+    },
+    {
+      "file": 5,
+      "code": "5B",
+      "type": "lesson",
+      "title": "A quiet life?",
+      "sb_page": 40,
+      "tg_page": 70,
+      "topics": {},
+      "wb_page": 34,
+      "summary": "The first part of this lesson is based on an online forum about noisy family members and neighbors. You start by learning new verbs and verb phrases, and talk about noise problems in your family or with your neighbors. The present continuous (used for what is happening now or for temporary actions/situations) is presented through conversations between family members and noisy neighbors. Pronunciation focuses on the /ŋ/ sound, which appears in all present continuous endings. You then do a \"spot the differences\" Speaking activity that practices the new grammar. The lesson ends with you listening to six conversations and guessing what the people are doing.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "present continuous",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "PRONUNCIATION & SPEAKING",
+          "subtitle": "/ŋ/",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "LISTENING",
+          "subtitle": "figuring out a situation from context",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "The Sound of Silence",
+        "artist": "Simon & Garfunkel",
+        "why": "Barulho vs. silêncio + present continuous."
+      }
+    },
+    {
+      "file": 5,
+      "code": "5C",
+      "type": "lesson",
+      "title": "A city for all seasons",
+      "sb_page": 42,
+      "tg_page": 74,
+      "topics": {},
+      "wb_page": 36,
+      "summary": "The main context is Chicago — first its weather, then some unusual tourist attractions. If you haven't visited the US, you might think of Chicago as a windy city; here you learn the real facts about its climate. You start by learning basic vocabulary for talking about the weather and listen to a travel guide describing typical Chicago weather. The Grammar (simple present or present continuous) is presented through messages between friends in different places around the world. You then read an online guide that recommends what to do in Chicago in different seasons. Pronunciation helps you pronounce and recognize famous place names in Chicago, and the lesson finishes with writing — how to write posts about your vacation on a social-networking site.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "3",
+          "number": 3,
+          "label": "READING & SPEAKING",
+          "subtitle": "finding specific",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "PRONUNCIATION",
+          "subtitle": "places in Chicago",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "WRITING",
+          "subtitle": "posting on social media",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Sweet Home Chicago",
+        "artist": "Robert Johnson",
+        "why": "Chicago — cidade-tema da lição."
+      }
+    },
+    {
+      "file": 5,
+      "code": "PE3",
+      "type": "practical_english",
+      "episode": 3,
+      "title": "Buying clothes",
+      "sb_page": 44,
+      "tg_page": 77,
+      "topics": {},
+      "wb_page": 52,
+      "summary": "In this third Practical English lesson, you learn some basic clothes vocabulary and key phrases for buying clothes in English. The story develops: Jenny spills Rob's coffee over his shirt, so he has to buy a new one. While he's looking for a shirt, Jenny gets a call from someone named Eddie. Rob comes out of the store, hears the end of her conversation, and wonders who Eddie is. When Jenny sees the shirt he's chosen, she insists he goes back to change it.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "clothes",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "MEETING ON THE STREET",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "BUYING CLOTHES",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Material Girl",
+        "artist": "Madonna",
+        "why": "Comprar roupas + vocabulário de moda."
+      }
+    },
+    {
+      "file": 6,
+      "code": "6A",
+      "type": "lesson",
+      "title": "A North African story",
+      "sb_page": 46,
+      "tg_page": 80,
+      "topics": {},
+      "wb_page": 40,
+      "summary": "Beyond its grammar and vocabulary goals, this lesson encourages you to start reading in English — a great way to consolidate and expand what you know. We recommend \"Graded Readers,\" books simplified by level. You first look at people's different reading habits and talk about your own. Object pronouns (me, you, him, etc.) are then presented through Part 1 of a traditional North African story. You then read and listen to Part 2, and listen to the final part, getting more practice with pronouns and possessive adjectives. Vocabulary focuses on learning words through reading. In Pronunciation, you work on three sounds (/aɪ/, /ɪ/, and /i/), which sets up the speaking activity. Finally, you retell the story playing one of the two main characters.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "READING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "GRAMMAR",
+          "subtitle": "object pronouns",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "READING & LISTENING",
+          "subtitle": "retelling a story",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "VOCABULARY",
+          "subtitle": "words in a story",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "PRONUNCIATION",
+          "subtitle": "/aɪ/",
+          "type": "section"
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "label": "SPEAKING",
+          "subtitle": "\u0007Focus on the task and make sure Sts understand what",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Tell Me a Story",
+        "artist": "Phillip Phillips",
+        "why": "Object pronouns + uma história narrada."
+      }
+    },
+    {
+      "file": 6,
+      "code": "6B",
+      "type": "lesson",
+      "title": "The second Friday in July",
+      "sb_page": 48,
+      "tg_page": 83,
+      "topics": {},
+      "wb_page": 42,
+      "summary": "The main vocabulary focus is how to say the date. You start by reviewing the months, then learn ordinal numbers, followed by a Listening on identifying ordinal numbers. You then read an online forum where readers answer questions about their favorite month, day of the week, and time of day. The grammar focus is like, love, etc. + the -ing form, and you talk about which free-time activities you like and dislike. The lesson ends with you interviewing a partner about their favorite or least favorite month/day/week, then writing about your own favorite times.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "2",
+          "number": 2,
+          "label": "LISTENING",
+          "subtitle": "making connections",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "READING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "GRAMMAR",
+          "subtitle": "like + (verb + -ing)",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "SPEAKING & WRITING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Friday I'm in Love",
+        "artist": "The Cure",
+        "why": "Dias da semana + like + verb-ing."
+      }
+    },
+    {
+      "file": 6,
+      "code": "6C",
+      "type": "lesson",
+      "title": "Making music",
+      "sb_page": 50,
+      "tg_page": 87,
+      "topics": {},
+      "wb_page": 44,
+      "summary": "This lesson, the last of the first half of the book, uses the topic of music to review the uses of be and do. You start with the vocabulary of musical instruments and musicians. You then use a music questionnaire to interview a partner about their musical tastes and habits. After reviewing the grammar, Pronunciation focuses on the /y/ sound, including the \"hidden\" /y/ in words like music, plus stress on words used to give opinions. You listen to a program about a street performer in London. The lesson finishes with a visit to the Writing section to learn how to write an informal email.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "complete",
+          "label": "Completar a aula",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Don't Stop the Music",
+        "artist": "Rihanna",
+        "why": "Música como tema; review be/do."
+      }
+    },
+    {
+      "file": 6,
+      "code": "R&C 5&6",
+      "type": "review",
+      "title": "Review and Check 5 & 6",
+      "sb_page": 52,
+      "covers_files": [
+        5,
+        6
+      ],
+      "tg_page": 0,
+      "topics": {},
+      "summary": "Revisão dos Files 5 e 6: consolidação de gramática, vocabulário, pronúncia, listening e leitura. Inclui exercícios de Can you…?, listening, leitura e teste de comunicação oral.",
+      "summary_source": "topics",
+      "steps": [
+        {
+          "id": "vocab",
+          "label": "VOCABULARY",
+          "type": "section"
+        },
+        {
+          "id": "gram",
+          "label": "GRAMMAR",
+          "type": "section"
+        },
+        {
+          "id": "pron",
+          "label": "PRONUNCIATION",
+          "type": "section"
+        },
+        {
+          "id": "read",
+          "label": "CAN YOU understand this text?",
+          "type": "section"
+        },
+        {
+          "id": "listen",
+          "label": "CAN YOU understand these people?",
+          "type": "section"
+        }
+      ]
+    },
+    {
+      "file": 7,
+      "code": "7A",
+      "type": "lesson",
+      "title": "Selfies",
+      "sb_page": 54,
+      "tg_page": 92,
+      "topics": {},
+      "wb_page": 46,
+      "summary": "This lesson uses self-portraits and selfies to introduce and practice the simple past of the verb be (was / were). The Grammar is presented through an audio guide about Vincent van Gogh. Pronunciation focuses on sentence stress in simple-past statements and questions with was and were. The Reading continues with self-portraits of famous people and then moves into word formation (e.g., music → musician). In Speaking, you discuss whether you take selfies and talk about the selfies and photos on your phone.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "GRAMMAR",
+          "subtitle": "simple past of be",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "PRONUNCIATION",
+          "subtitle": "sentence stress",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "READING",
+          "subtitle": "understanding the order of life events",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "VOCABULARY",
+          "subtitle": "word formation",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "SPEAKING",
+          "subtitle": "If you haven’t already focused on the title of the lesson",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Tubthumping",
+        "artist": "Chumbawamba",
+        "why": "Past simple was/were — ‘I get knocked down…’."
+      }
+    },
+    {
+      "file": 7,
+      "code": "7B",
+      "type": "lesson",
+      "title": "Wrong name wrong place",
+      "sb_page": 56,
+      "tg_page": 95,
+      "topics": {},
+      "wb_page": 48,
+      "summary": "Simple-past regular verbs are introduced through two true stories about flight problems. The lesson opens with a Reading about someone needing to change the last name on their ticket, and then you listen to a story about two people having a problem on the plane. These set up the simple past of regular verbs. A pronunciation focus covers -ed endings. Vocabulary introduces past time expressions, and Grammar, Vocabulary, and Pronunciation come together in the final Speaking activity.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "READING & LISTENING",
+          "subtitle": "predicting the order",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "simple past: regular verbs",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "PRONUNCIATION",
+          "subtitle": "-ed endings",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Hooray for Hollywood",
+        "artist": "Various",
+        "why": "Past simple regular + cinema."
+      }
+    },
+    {
+      "file": 7,
+      "code": "7C",
+      "type": "lesson",
+      "title": "Happy New Year?",
+      "sb_page": 58,
+      "tg_page": 98,
+      "topics": {},
+      "wb_page": 50,
+      "summary": "The topic is New Year's Eve. Three blogs about memorable New Year's Eves (good and bad!) provide the context for introducing simple-past irregular verbs. The vocabulary focus is on common collocations with go, have, and get (e.g., go out, get home). You then listen to a fourth person describing a memorable New Year's Eve in Brazil. Next you work on the stress pattern in Wh- questions in the simple past, which prepares you for the final Speaking and Writing activity: asking about a memorable New Year's Eve and then writing about it.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "READING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "simple past: irregular verbs",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "VOCABULARY",
+          "subtitle": "go, have, get",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "LISTENING",
+          "subtitle": "understanding extra information",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "PRONUNCIATION",
+          "subtitle": "sentence stress",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "SPEAKING & WRITING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Happy New Year",
+        "artist": "ABBA",
+        "why": "Past irregular + tema da virada do ano."
+      }
+    },
+    {
+      "file": 7,
+      "code": "PE4",
+      "type": "practical_english",
+      "episode": 4,
+      "title": "Asking for directions",
+      "sb_page": 60,
+      "tg_page": 101,
+      "topics": {},
+      "wb_page": 66,
+      "summary": "In this lesson, you practice directions. The focus is more on asking for and understanding directions than on giving them, since giving directions is a difficult skill at this level. Rob and Jenny have a free morning, and Rob plans to rent bikes and show Jenny some of London. But then Daniel calls and asks Rob to interview an artist at the Tate Modern. Jenny agrees to meet Rob at the gallery, ventures into London on her own — and gets lost.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "A FREE MORNING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "VOCABULARY",
+          "subtitle": "directions",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "ASKING FOR DIRECTIONS",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "JENNY AND ROB GO SIGHTSEEING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "On the Road Again",
+        "artist": "Willie Nelson",
+        "why": "Direções e jornada."
+      }
+    },
+    {
+      "file": 8,
+      "code": "8A",
+      "type": "lesson",
+      "title": "A murder mystery",
+      "sb_page": 62,
+      "tg_page": 104,
+      "topics": {},
+      "wb_page": 54,
+      "summary": "The goal is to review all forms of the simple past — regular and irregular — through a murder story. The lesson opens with a description of the story, introducing the characters and several new past forms of irregular verbs. A pronunciation focus reviews irregular and regular past forms. You then hear more of the story on audio (as a TV adaptation) when the inspector interviews the suspects. You decide who you think the murderer was before hearing what actually happened. After the murder story, a grammar focus pulls together and reviews the simple past. The lesson finishes with an extended Speaking activity where you role-play trying to break down the alibi of a robbery suspect.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "READING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "PRONUNCIATION",
+          "subtitle": "simple past verbs",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "LISTENING",
+          "subtitle": "taking notes and comparing",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Murder Was the Case",
+        "artist": "Snoop Dogg (clean)",
+        "why": "Revisão geral do passado em narrativa."
+      }
+    },
+    {
+      "file": 8,
+      "code": "8B",
+      "type": "lesson",
+      "title": "A house with a history",
+      "sb_page": 64,
+      "tg_page": 108,
+      "topics": {},
+      "wb_page": 56,
+      "summary": "This lesson links back to the murder story in 8A. Many years later, a young couple looking for a house to rent are shown around Jeremy Travers's house by Barbara, his now-elderly daughter. Only after deciding to rent it do they discover the house has a dark secret: someone was murdered there. You start with a vocabulary focus on house and furniture. You then listen to Barbara showing the young couple around the old Travers house, now for rent. You hear how Kim is reluctant to rent the house but is talked into it by her husband, and how when they go to celebrate at the local restaurant they hear the true story. You focus on the grammar in the conversations — the use of there is and there are. The pronunciation focus is on /ɛr/ and /ɪr/, which prepares you for a Speaking activity describing where you live. Finally, in the Writing section you write a description of your house or apartment.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "the house",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "LISTENING",
+          "subtitle": "using evidence to predict outcome",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "PRONUNCIATION",
+          "subtitle": "/ɛr/ and",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "WRITING",
+          "subtitle": "describing your home",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Our House",
+        "artist": "Madness",
+        "why": "There is/are + tipos de quartos e móveis."
+      }
+    },
+    {
+      "file": 8,
+      "code": "8C",
+      "type": "lesson",
+      "title": "Haunted rooms",
+      "sb_page": 66,
+      "tg_page": 113,
+      "topics": {},
+      "wb_page": 58,
+      "summary": "This lesson is based on real information about a hotel in Los Angeles said to be haunted. An article about the hotel provides the context for practicing there was / there were and prepositions of place and movement. You start by reading the article and listening to two guests describing their experiences of staying near room 924, where the ghosts are said to appear — that's the context for the grammar of there was / there were. The lesson then moves into a vocabulary focus on more prepositions of place and movement (you've already done simple ones like in, on, under, to). Pronunciation focuses on silent letters in words like ghost and guest. You then do a Speaking activity that practices the Grammar and Vocabulary. The lesson finishes with a video listening about Portchester Castle.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "complete",
+          "label": "Completar a aula",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Ghost",
+        "artist": "Justin Bieber",
+        "why": "There was/were + tema de assombração."
+      }
+    },
+    {
+      "file": 8,
+      "code": "R&C 7&8",
+      "type": "review",
+      "title": "Review and Check 7 & 8",
+      "sb_page": 68,
+      "covers_files": [
+        7,
+        8
+      ],
+      "tg_page": 0,
+      "topics": {},
+      "summary": "Revisão dos Files 7 e 8: consolidação de gramática, vocabulário, pronúncia, listening e leitura. Inclui exercícios de Can you…?, listening, leitura e teste de comunicação oral.",
+      "summary_source": "topics",
+      "steps": [
+        {
+          "id": "vocab",
+          "label": "VOCABULARY",
+          "type": "section"
+        },
+        {
+          "id": "gram",
+          "label": "GRAMMAR",
+          "type": "section"
+        },
+        {
+          "id": "pron",
+          "label": "PRONUNCIATION",
+          "type": "section"
+        },
+        {
+          "id": "read",
+          "label": "CAN YOU understand this text?",
+          "type": "section"
+        },
+        {
+          "id": "listen",
+          "label": "CAN YOU understand these people?",
+          "type": "section"
+        }
+      ]
+    },
+    {
+      "file": 9,
+      "code": "9A",
+      "type": "lesson",
+      "title": "#mydinnerlastnight",
+      "sb_page": 70,
+      "tg_page": 118,
+      "topics": {},
+      "wb_page": 60,
+      "summary": "Food and drink provide the context for the grammar of countable and uncountable nouns, plus the related use of a, an, some, and any. You start with a quiz on food and drink words you've already met in Level 1, then go to the Vocabulary Bank to learn more. You read part of a blog where a man describes why he eats the same thing every day; that Reading leads into the grammar focus, which you then practice. You listen to four people describing their dinner the previous night. Pronunciation looks at the vowel combination ea, which can be pronounced in several different ways and shows up in many common food words (e.g., bread, meat, steak). In Speaking, you tell a partner what you ate and drank yesterday, and discuss whether your eating habits are similar.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "food and drink",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "LISTENING",
+          "subtitle": "hypothesizing about photos to",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "PRONUNCIATION",
+          "subtitle": "the letters ea",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Eat It",
+        "artist": "Weird Al Yankovic",
+        "why": "Comida + countable / uncountable."
+      }
+    },
+    {
+      "file": 9,
+      "code": "9B",
+      "type": "lesson",
+      "title": "White gold",
+      "sb_page": 72,
+      "tg_page": 122,
+      "topics": {},
+      "wb_page": 62,
+      "summary": "This lesson continues the food theme and focuses on sugar and salt — both known at different times in history as \"white gold.\" You start with a vocabulary focus on containers (package, can, etc.). The grammar context is the amount of sugar and salt in some common foods. You learn quantifiers (much, a lot of) and how to ask about quantity (e.g., How much sugar is there in dark chocolate?). Pronunciation covers /ʃ/ and /s/. The reading text Fascinating facts about sugar and salt is based on several recent articles and studies. The lesson ends with you interviewing a partner using a questionnaire to find out how much salt and sugar you eat every day.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "quantifiers",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "PRONUNCIATION",
+          "subtitle": "/ʃ/ and",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "READING",
+          "subtitle": "categorizing information",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Sugar",
+        "artist": "Maroon 5",
+        "why": "Sugar/salt como tema; quantifiers."
+      }
+    },
+    {
+      "file": 9,
+      "code": "9C",
+      "type": "lesson",
+      "title": "Facts and figures",
+      "sb_page": 74,
+      "tg_page": 125,
+      "topics": {},
+      "wb_page": 64,
+      "summary": "The context is general-knowledge quizzes, which introduce and practice comparative adjectives and high numbers. You start with a vocabulary focus on numbers greater than 100. In Listening, you decide whether some statements are true or false, then listen to a contestant answering the questions on a quiz show. The quiz questions lead into the grammar of comparative adjectives. A pronunciation focus covers stress in comparative sentences and the /ər/ sound in -er endings. In Speaking, you put the grammar and high numbers into practice with a quiz-show role-play. The lesson finishes with a reading text about trivia nights in the UK and US.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "high numbers",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "LISTENING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "GRAMMAR",
+          "subtitle": "comparative adjectives",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "READING",
+          "subtitle": "identifying section topics",
+          "type": "section"
+        },
+        {
+          "id": "75",
+          "number": 75,
+          "label": "SEVENTY AND FIVE",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "99 Problems",
+        "artist": "Jay-Z (clean)",
+        "why": "Números altos + comparatives."
+      }
+    },
+    {
+      "file": 9,
+      "code": "PE5",
+      "type": "practical_english",
+      "episode": 5,
+      "title": "Ordering a meal",
+      "sb_page": 76,
+      "tg_page": 130,
+      "topics": {},
+      "wb_page": 80,
+      "summary": "In this lesson, you learn common vocabulary for menus and practice ordering a meal in a restaurant. In the storyline, Jenny and Rob are chatting in the office when Jenny gets a call from Eddie. Eddie sings \"Happy Birthday\" to Jenny; Rob overhears and takes the chance to invite Jenny out for dinner. But before she can reply, Daniel comes out of his office and invites Jenny to a working dinner that evening.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "AN INVITATION TO DINNER",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "VOCABULARY",
+          "subtitle": "understanding a menu",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "ORDERING A MEAL",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "THE END OF THE MEAL",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "I Want to Eat",
+        "artist": "Caro Emerald",
+        "why": "Ordering a meal."
+      }
+    },
+    {
+      "file": 10,
+      "code": "10A",
+      "type": "lesson",
+      "title": "The most dangerous place…",
+      "sb_page": 78,
+      "tg_page": 133,
+      "topics": {},
+      "wb_page": 68,
+      "summary": "A reading text about the most dangerous place in the world to cross the street, plus other geographical superlatives, provides the context for superlative adjectives and the vocabulary of places and buildings. You start with Vocabulary, learning words for buildings and landmarks in a town or city. In Grammar, you make the logical progression from comparatives to superlatives and look at \"extreme\" places in the world (the biggest station, the oldest bridge, etc.). Pronunciation focuses on the consonant groups that turn up in superlatives (e.g., the most expensive), and you then do a role-play about your town using superlatives. An article tells you about the most dangerous place in the world to cross the street. Writing brings the topic home: you write about your own town or city.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "places and buildings",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "superlative adjectives",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "READING",
+          "subtitle": "identifying paragraph endings",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "WRITING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "why": "Superlativos + descrição de lugares."
+      }
+    },
+    {
+      "file": 10,
+      "code": "10B",
+      "type": "lesson",
+      "title": "Five continents in a day",
+      "sb_page": 80,
+      "tg_page": 136,
+      "topics": {},
+      "wb_page": 70,
+      "summary": "The context is travel and city vacations. The lesson opens with Grammar: be going to for future plans, presented and practiced by listening to and reading about two people who plan to travel to five continents in one day. Pronunciation focuses on sentence stress in going-to sentences. In Listening, you hear an expert from a website called Responsible Travel give advice about how to plan a vacation. In Vocabulary and Speaking, you look at common vacation phrases and then plan your own dream trip. Finally, in Writing you write a formal email booking some accommodations.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "GRAMMAR",
+          "subtitle": "be going to (plans)",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "LISTENING",
+          "subtitle": "using prior knowledge to predict",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "VOCABULARY & SPEAKING",
+          "subtitle": "city vacations",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "WRITING",
+          "subtitle": "a formal email",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Around the World",
+        "artist": "Daft Punk",
+        "why": "Be going to + planos de viagem."
+      }
+    },
+    {
+      "file": 10,
+      "code": "10C",
+      "type": "lesson",
+      "title": "The fortune-teller",
+      "sb_page": 82,
+      "tg_page": 140,
+      "topics": {},
+      "wb_page": 72,
+      "summary": "This lesson covers another use of be going to: predictions (what we think or are sure is going to happen). The context is a short story about a fortune-teller, also dramatized on video. You start by discussing fortune-telling and related verb phrases. In Pronunciation, you look at stress in two-syllable words. You read and listen to a short story with a twist at the end, making a series of predictions about the outcome as you go. After the first four parts on audio, you can watch them on video and finally discover what happens. After the story, you look at the grammar of using going to for predictions, and the lesson ends with a fortune-telling activity.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "complete",
+          "label": "Completar a aula",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "The Future's So Bright",
+        "artist": "Timbuk 3",
+        "why": "Be going to (predictions)."
+      }
+    },
+    {
+      "file": 10,
+      "code": "R&C 9&10",
+      "type": "review",
+      "title": "Review and Check 9 & 10",
+      "sb_page": 84,
+      "covers_files": [
+        9,
+        10
+      ],
+      "tg_page": 0,
+      "topics": {},
+      "summary": "Revisão dos Files 9 e 10: consolidação de gramática, vocabulário, pronúncia, listening e leitura. Inclui exercícios de Can you…?, listening, leitura e teste de comunicação oral.",
+      "summary_source": "topics",
+      "steps": [
+        {
+          "id": "vocab",
+          "label": "VOCABULARY",
+          "type": "section"
+        },
+        {
+          "id": "gram",
+          "label": "GRAMMAR",
+          "type": "section"
+        },
+        {
+          "id": "pron",
+          "label": "PRONUNCIATION",
+          "type": "section"
+        },
+        {
+          "id": "read",
+          "label": "CAN YOU understand this text?",
+          "type": "section"
+        },
+        {
+          "id": "listen",
+          "label": "CAN YOU understand these people?",
+          "type": "section"
+        }
+      ]
+    },
+    {
+      "file": 11,
+      "code": "11A",
+      "type": "lesson",
+      "title": "Culture shock",
+      "sb_page": 86,
+      "tg_page": 144,
+      "topics": {},
+      "wb_page": 74,
+      "summary": "People's first impressions of a new country provide the context for learning common adverbs of manner and modifiers. The lesson opens with you reading forum posts written by people about what surprised them when they first arrived in the US. This leads into the grammar of forming and positioning adverbs. In Listening, an American man talks about living in Costa Rica, which leads into Pronunciation, focused on understanding connected speech. You then discuss habits and behavior in your own country or city. Finally, you write three short posts about habits in your country that might surprise a visitor.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "READING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "adverbs",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "WRITING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Englishman in New York",
+        "artist": "Sting",
+        "why": "Culture shock no exterior."
+      }
+    },
+    {
+      "file": 11,
+      "code": "11B",
+      "type": "lesson",
+      "title": "Experiences or things?",
+      "sb_page": 88,
+      "tg_page": 147,
+      "topics": {},
+      "wb_page": 76,
+      "summary": "This lesson is based on a blog written by a German girl who is passionate about travel and new experiences. In the first half, you read and talk about people's dreams or \"bucket lists.\" In Grammar, you focus on the structure verb + infinitive, common when talking about dreams (e.g., I want to climb a mountain), and learn some common verbs followed by the infinitive. In the second half, you work on the weak pronunciation of to in verb phrases and on sentence stress, and talk about your dreams and plans for the future. The Writing task links back to the reading: you write your own bucket list and compare it with a partner's.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "READING & SPEAKING",
+          "subtitle": "scanning for",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "verb + infinitive",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "PRONUNCIATION",
+          "subtitle": "weak to, sentence stress",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "VOCABULARY",
+          "subtitle": "verbs that take the infinitive",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "SPEAKING",
+          "subtitle": "Give Sts a few minutes to look at the ten phrases and",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "WRITING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Dreamer",
+        "artist": "Supertramp",
+        "why": "Verb + infinitive — sonhos e ambições."
+      }
+    },
+    {
+      "file": 11,
+      "code": "11C",
+      "type": "lesson",
+      "title": "How smart is your phone?",
+      "sb_page": 90,
+      "tg_page": 149,
+      "topics": {},
+      "wb_page": 78,
+      "summary": "The topic is phones and the internet. The lesson opens with useful phone- and internet-related language. You then listen to three people saying what they use their phones for, and you do the same. Reading focuses on life before the internet — something you may not have experienced. The grammar focus covers the uses of the definite article, with special attention to the non-use of articles when generalizing (talking about things or people in general). The lesson ends with a Speaking activity reviewing the different uses of articles.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "phones and the internet",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "LISTENING & SPEAKING",
+          "subtitle": "using visual clues to",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "READING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "GRAMMAR",
+          "subtitle": "definite article",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "PRONUNCIATION & SPEAKING",
+          "subtitle": "the",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Hello",
+        "artist": "Lionel Richie",
+        "why": "Definite article + telefone/contato."
+      }
+    },
+    {
+      "file": 11,
+      "code": "PE6",
+      "type": "practical_english",
+      "episode": 6,
+      "title": "Getting to the airport",
+      "sb_page": 92,
+      "tg_page": 152,
+      "topics": {},
+      "summary": "In this final Practical English lesson, you learn vocabulary related to transportation and functional language for using public transportation. It's Jenny's final morning in London, and Rob goes to the hotel to say goodbye. Jenny tells him she's shown some of his articles to Barbara, her boss in New York, and that they'd like him to go to New York for a month to write a column for New York 24seven and a daily blog. Rob is excited but asks for time to think. Jenny takes a taxi and then a train to Heathrow but discovers on arrival that she's left her phone in the hotel. Just then, Rob arrives with the phone and tells her he wants to accept Barbara's offer and go to New York. He finally discovers who Eddie is. The story continues in American English File Level 3.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "2",
+          "number": 2,
+          "label": "VOCABULARY",
+          "subtitle": "public transportation",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "GETTING TO THE AIRPORT",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "SAYING GOODBYE",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Slow Train Coming",
+        "artist": "Bob Dylan",
+        "why": "Transporte público."
+      }
+    },
+    {
+      "file": 12,
+      "code": "12A",
+      "type": "lesson",
+      "title": "I’ve seen it ten times!",
+      "sb_page": 94,
+      "tg_page": 155,
+      "topics": {},
+      "wb_page": 82,
+      "summary": "The topic of movies and TV shows based on books provides the context for introducing the present perfect. The lesson opens with the grammar presented through a conversation about movies, TV shows, and books. Pronunciation focuses on sentence stress, and Vocabulary looks at common irregular past participles. The final Listening and Speaking activity uses a survey about movie, TV, and book experiences, where you learn how to ask present-perfect questions with ever. (In 12B you'll meet other regular and irregular past participles and contrast the present perfect with the simple past.)",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "GRAMMAR",
+          "subtitle": "present perfect",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "PRONUNCIATION",
+          "subtitle": "sentence stress",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "VOCABULARY",
+          "subtitle": "irregular past participles",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "LISTENING & SPEAKING",
+          "subtitle": "recognizing topic",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "I've Seen It All",
+        "artist": "Björk",
+        "why": "Present perfect com ever — tema direto da lição."
+      }
+    },
+    {
+      "file": 12,
+      "code": "12B",
+      "type": "lesson",
+      "title": "He’s been everywhere!",
+      "sb_page": 96,
+      "tg_page": 158,
+      "topics": {},
+      "wb_page": 84,
+      "summary": "The main context is a conversation between a group of friends about where to go for dinner. One of them has already tried every restaurant the others suggest. Their conversation contrasts the present perfect and the simple past in a natural way: Have you been to…? When did you go? Why did you go there?. The lesson opens with a Listening activity exposing you to both the present perfect (for past experiences) and the simple past, which leads into the grammar focus. In Vocabulary and Pronunciation, you get more practice forming and pronouncing irregular past participles. The lesson ends with a Speaking activity where you ask opening questions in the present perfect with recently and ever, and then simple follow-up questions in the simple past.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "LISTENING",
+          "subtitle": "identifying key information",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "present perfect or simple past?",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "VOCABULARY",
+          "subtitle": "learning irregular verbs",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "PRONUNCIATION",
+          "subtitle": "irregular past participles",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Been Around the World",
+        "artist": "Puff Daddy",
+        "why": "Present perfect vs simple past."
+      }
+    },
+    {
+      "file": 12,
+      "code": "12C",
+      "type": "lesson",
+      "title": "The American English File interview",
+      "sb_page": 98,
+      "tg_page": 161,
+      "topics": {},
+      "wb_page": 86,
+      "summary": "In this final lesson, you review Grammar, Vocabulary, and Pronunciation from the whole course, with a special focus on question formation. The lesson is based on an interview Sir Ian McKellen kindly gave to the American English File authors. You first read the interview and do some comprehension exercises. In Grammar and Speaking, you review question formation before interviewing a partner. Finally, you watch or listen to a show about Judi Dench, an actress who has worked in famous productions with Ian McKellen.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "complete",
+          "label": "Completar a aula",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Goodbye Yellow Brick Road",
+        "artist": "Elton John",
+        "why": "Question formation + fechamento de curso."
+      }
+    },
+    {
+      "file": 12,
+      "code": "R&C 11&12",
+      "type": "review",
+      "title": "Review and Check 11 & 12",
+      "sb_page": 100,
+      "covers_files": [
+        11,
+        12
+      ],
+      "tg_page": 0,
+      "topics": {},
+      "summary": "Revisão dos Files 11 e 12: consolidação de gramática, vocabulário, pronúncia, listening e leitura. Inclui exercícios de Can you…?, listening, leitura e teste de comunicação oral.",
+      "summary_source": "topics",
+      "steps": [
+        {
+          "id": "vocab",
+          "label": "VOCABULARY",
+          "type": "section"
+        },
+        {
+          "id": "gram",
+          "label": "GRAMMAR",
+          "type": "section"
+        },
+        {
+          "id": "pron",
+          "label": "PRONUNCIATION",
+          "type": "section"
+        },
+        {
+          "id": "read",
+          "label": "CAN YOU understand this text?",
+          "type": "section"
+        },
+        {
+          "id": "listen",
+          "label": "CAN YOU understand these people?",
+          "type": "section"
+        }
+      ]
+    }
+  ],
+  "sb_pdf_offset": 1,
+  "tg_pdf_offset": 0,
+  "wb_pdf_offset": 0
+}

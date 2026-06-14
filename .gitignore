@@ -1,0 +1,42 @@
+# ---- Conteúdo dos cursos (não versionar — material protegido por copyright) ----
+/AEF 0 starter/
+/AEF 1 elementary/
+/AEF 2 pre-intermediate/
+/AEF 3 intermediate/
+/AEF 4 upper-intermediate/
+/AEF 5 advanced/
+
+# ---- Ambientes Python ----
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# ---- Dados gerados / pessoais ----
+# Progresso pessoal:
+data/study.db
+data/study.db-journal
+data/study.db-wal
+data/study.db-shm
+# Regenerável via scripts/build_index.py:
+data/index.json
+# Cache extraído sob demanda dos DOCX:
+data/practice_cache/
+
+# ---- Arquivos do sistema ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Editores / ferramentas locais ----
+.idea/
+.vscode/
+.claude/
+*.swp
+*.swo
+
+# ---- Logs / saída temporária ----
+*.log
+/tmp/
+.pytest_cache/

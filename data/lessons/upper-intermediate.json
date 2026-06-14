@@ -1,0 +1,1254 @@
+{
+  "id": "upper-intermediate",
+  "title": "Upper-Intermediate",
+  "cefr": "B2",
+  "sb_pdf_path": "AEF 4 upper-intermediate/SB.pdf",
+  "tg_pdf_path": "AEF 4 upper-intermediate/TB.pdf",
+  "wb_pdf_path": "AEF 4 upper-intermediate/WB.pdf",
+  "lessons": [
+    {
+      "file": 1,
+      "code": "1A",
+      "type": "lesson",
+      "title": "Questions and answers",
+      "sb_page": 6,
+      "tg_page": 13,
+      "topics": {},
+      "wb_page": 4,
+      "summary": "The topic and grammar focus of this first lesson is questions. Even at this level, forming questions correctly is still a common pain point. This lesson reviews all aspects of question formation, including indirect questions, negative questions, and questions that end with a preposition. By the end, you should be forming questions more accurately and confidently. The lesson has two distinct halves. In the first, you read two interviews from Q&A, a regular feature in The Guardian newspaper, with the gymnast Simone Biles and the actor Dan Stevens. You then focus on the grammar of question formation, followed by Pronunciation reviewing how to use intonation in questions to show interest. In the second half, the topic is job interviews and you read an article about the kind of \"extreme\" questions some companies now use. The vocabulary focus is on figuring out the meaning of new words in a text from context. This is followed by a listening where you hear four speakers talk about strange questions they've been asked in interviews. The lesson ends with Speaking, where you role-play extreme interviews and write a question of your own.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "question formation",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "PRONUNCIATION",
+          "subtitle": "intonation: showing interest",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Questions 67 & 68",
+        "artist": "Chicago",
+        "why": "Question formation no título literal."
+      }
+    },
+    {
+      "file": 1,
+      "code": "1B",
+      "type": "lesson",
+      "title": "It’s a mystery",
+      "sb_page": 10,
+      "tg_page": 19,
+      "topics": {},
+      "wb_page": 7,
+      "summary": "The topic is understanding and explaining mysterious and unusual events. The first half opens with a reading based on a true story: the disappearance of three lighthouse keepers in Scotland. You then listen to the end of the story, in which a detective tries to solve the mysterious disappearance. This leads into the grammar focus on auxiliary verbs, which includes a review of tag questions and So do I / Neither do I, plus the use of auxiliaries for emphasis and in reply questions. You then work on intonation and sentence rhythm in questions and sentences using auxiliaries. The first half ends with you pretending to be a psychic and completing sentences about a partner. In the second half, the focus shifts to an unusual personality test: you listen to a mysterious voice guiding you on a walk through a forest, take notes, and analyze your answers. You then discuss other non-mainstream ways of analyzing personality. Grammar in Context focuses on how to use the structure the…, the… + comparatives (e.g., the sooner, the better). In Vocabulary, you expand your knowledge of compound adjectives to describe personality, and use modifiers and compound adjectives to talk about people you know.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "auxiliary verbs",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "VOCABULARY",
+          "subtitle": "compound adjectives",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Mystery",
+        "artist": "Anita Baker",
+        "why": "Mistério + auxiliares de ênfase."
+      }
+    },
+    {
+      "file": 1,
+      "code": "CE1",
+      "type": "colloquial_english",
+      "episode": 1,
+      "title": "Getting a job",
+      "sb_page": 14,
+      "tg_page": 25,
+      "topics": {},
+      "wb_page": 10,
+      "summary": "This is the first of five Colloquial English lessons featuring interviews and conversations commissioned and filmed specially for American English File. The first section, The Interview, has an interview related to one or more of the topics in the preceding Files. The interviewees all have unique first-hand experience in their field and offer interesting perspectives, while giving you a chance to engage with authentic, unscripted speech. The second part, The Conversation, is an authentic unedited conversation between three people about an aspect of the same topic — designed to make you more confident at following a conversation at natural speed. Watching it on video makes it easier to follow who's saying what, and to focus on the language of such conversations (emphasizing a point, responding to an idea, etc.). It's worth watching the video a final time with the script or subtitles to see what you did and didn't understand, and to develop your awareness of features of spoken English (elision, false starts, discourse markers, hesitation, etc.). In this lesson, the person interviewed is Jeff Neil, a career coach, with a focus on formal language. In The Conversation, you watch three people discussing whether it's OK to slightly exaggerate on your résumé. You then discuss this and a couple of other related questions, focusing on ways to emphasize your ideas.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "THE INTERVIEW",
+          "subtitle": "Part 1",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "LOOKING AT LANGUAGE",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "THE CONVERSATION",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Working 9 to 5",
+        "artist": "Dolly Parton",
+        "why": "Getting a job — tema da Colloquial."
+      }
+    },
+    {
+      "file": 2,
+      "code": "2A",
+      "type": "lesson",
+      "title": "Doctor, doctor!",
+      "sb_page": 16,
+      "tg_page": 29,
+      "topics": {},
+      "wb_page": 12,
+      "summary": "The topic is medicine. The first half opens with a first-aid quiz, testing your own knowledge and sparking discussion. You then expand your vocabulary of medical words to describe symptoms, illnesses, and treatment. A pronunciation focus on consonant sounds follows. You then listen to three speakers talking about a time when someone needed first aid. Finally, you discuss whether you've ever received or given first aid, and what you could do in certain emergencies. The second half opens with a light-hearted conversation between a doctor and a difficult patient, leading into the grammar focus where you review and extend your knowledge of the present perfect simple and continuous. These can be problematic because of interference from your native language. After practicing the grammar, you read an article from The Sunday Times on cyberchondriacs — people who obsessively search for medical information online. You focus on summarizing each paragraph and on medical phrases, finishing with a discussion about hypochondria and cyberchondria. Finally, the grammar and vocabulary are consolidated in the Writing Bank, where you write an informal email explaining to a friend why you haven't been well and what you've been doing recently.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY",
+          "subtitle": "illnesses and injuries",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "PRONUNCIATION",
+          "subtitle": "/ʃ/",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "WRITING",
+          "subtitle": "an informal email",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Doctor My Eyes",
+        "artist": "Jackson Browne",
+        "why": "Medicina + present perfect."
+      }
+    },
+    {
+      "file": 2,
+      "code": "2B",
+      "type": "lesson",
+      "title": "Act your age",
+      "sb_page": 20,
+      "tg_page": 36,
+      "topics": {},
+      "wb_page": 15,
+      "summary": "The topic is age. The lesson opens with an article about friendship between people with a big age difference, followed by a speaking activity in which you discuss having a friend of a different generation and the advantages this can bring. The first half ends with the grammar focus, where you extend your knowledge of how to use adjectives. You learn to use nationality adjectives as nouns when talking about the people from a particular country (the British, the French) or a particular group (the rich, the unemployed), and you also focus on adjective order when two or more describe a noun. In the second half, the angle is age-appropriate dressing. It opens with a photo and article about how women of different generations can wear the same clothes, leading into a vocabulary focus on clothes and fashion. Pronunciation looks at short and long vowel sounds and diphthongs. You then listen to a radio show on whether men and women should dress their age. In Speaking, you give your opinion on clothes and fashion. A writing task brings the vocabulary and grammar together: you write two ads to sell items of clothing online. The lesson ends with a documentary about a small Welsh company whose jeans have become a global fashion item.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "complete",
+          "label": "Completar a aula",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Forever Young",
+        "artist": "Bob Dylan",
+        "why": "Age + adjective order."
+      }
+    },
+    {
+      "file": 2,
+      "code": "R&C 1&2",
+      "type": "review",
+      "title": "Review and Check 1 & 2",
+      "sb_page": 24,
+      "covers_files": [
+        1,
+        2
+      ],
+      "tg_page": 0,
+      "topics": {},
+      "summary": "Revisão dos Files 1 e 2: consolidação de gramática, vocabulário, pronúncia, listening e leitura. Inclui exercícios de Can you…?, listening, leitura e teste de comunicação oral.",
+      "summary_source": "topics",
+      "steps": [
+        {
+          "id": "vocab",
+          "label": "VOCABULARY",
+          "type": "section"
+        },
+        {
+          "id": "gram",
+          "label": "GRAMMAR",
+          "type": "section"
+        },
+        {
+          "id": "pron",
+          "label": "PRONUNCIATION",
+          "type": "section"
+        },
+        {
+          "id": "read",
+          "label": "CAN YOU understand this text?",
+          "type": "section"
+        },
+        {
+          "id": "listen",
+          "label": "CAN YOU understand these people?",
+          "type": "section"
+        }
+      ]
+    },
+    {
+      "file": 3,
+      "code": "3A",
+      "type": "lesson",
+      "title": "Fasten your seat belts",
+      "sb_page": 26,
+      "tg_page": 44,
+      "topics": {},
+      "wb_page": 18,
+      "summary": "The topic is air travel, though both speaking activities work even if you've never flown. In the first half, you listen to some announcements heard on planes and trains, and Vocabulary then focuses on air-travel vocabulary. You read an article about where best to sit on a plane for comfort, safety, and service. In Grammar in Context, you also learn how to use so / such…that. Finally, you do a speaking activity on different aspects of travel. In the second half, you listen to an interview with a pilot who answers some of the questions air travelers frequently ask themselves. This is followed by a grammar focus on narrative tenses. You review the three you already know (simple past, past continuous, and past perfect) and learn a new one: the past perfect continuous. Pronunciation focuses on difficult irregular past verb forms and sentence rhythm. In the final speaking activity, you read and retell a couple of real flying stories and then tell a partner a travel anecdote.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "2",
+          "number": 2,
+          "label": "READING",
+          "subtitle": "using a diagram to understand a text",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "LISTENING",
+          "subtitle": "predicting information",
+          "type": "section"
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Leaving on a Jet Plane",
+        "artist": "John Denver",
+        "why": "Air travel + narrative tenses."
+      }
+    },
+    {
+      "file": 3,
+      "code": "3B",
+      "type": "lesson",
+      "title": "A really good ending?",
+      "sb_page": 30,
+      "tg_page": 51,
+      "topics": {},
+      "wb_page": 21,
+      "summary": "The topic is stories and reading. The lesson opens with a grammar focus on adverbs and adverbial phrases and their position in sentences, presented through four 50-word stories with a twist. A vocabulary focus on certain pairs of adverbs that are often confused follows, and in Pronunciation the focus is on word stress and emphatic intonation on certain adverbs. You then write your own 50-word story. In the second half, you start by talking about your reading habits, or about why you don't read for pleasure. You then read and listen to a short story by the French author Guy de Maupassant. The ending is on audio to create more suspense. Finally, you go to the Writing Bank to prepare for writing longer stories.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "2",
+          "number": 2,
+          "label": "VOCABULARY",
+          "subtitle": "adverbs and adverbial phrases",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "PRONUNCIATION",
+          "subtitle": "word stress and intonation",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "WRITING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "READING & LISTENING",
+          "subtitle": "reading for pleasure",
+          "type": "section"
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "label": "WRITING",
+          "subtitle": "a short story",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Tell Me a Story",
+        "artist": "Phillip Phillips",
+        "why": "Stories + adverbs e adverbial phrases."
+      }
+    },
+    {
+      "file": 3,
+      "code": "CE2",
+      "type": "colloquial_english",
+      "episode": 2,
+      "title": "&3 books",
+      "sb_page": 34,
+      "tg_page": 57,
+      "topics": {},
+      "wb_page": 24,
+      "summary": "In The Interview, the person interviewed is Marion Pomeranc, the manager of a non-profit organization in New York City called Learning Leaders and the author of three children's books. In The Conversation, you watch three people discussing whether there are any books they think everyone should read. You then discuss this question and a couple of related ones, focusing on vague language (I mean, sort of, etc.) and phrases for referring to what someone else has said (as you were saying, etc.).",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "CHRISTOPHER ROBIN",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "CAPTAIN HOOK",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "HERMIONE",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "LYRA AND WILL",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "LAURA INGALLS",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Paperback Writer",
+        "artist": "The Beatles",
+        "why": "Books — tema da Colloquial."
+      }
+    },
+    {
+      "file": 4,
+      "code": "4A",
+      "type": "lesson",
+      "title": "Stormy weather",
+      "sb_page": 36,
+      "tg_page": 61,
+      "topics": {},
+      "wb_page": 26,
+      "summary": "The topic is the environment and climate change. The first half opens with a quiz to see if you're as environmentally friendly as you think. You then look at an infographic with predictions about the environment. This leads into the grammar focus on two tenses that will be new for most students: the future perfect and future continuous. In the second half, you expand your weather vocabulary. A pronunciation focus on combinations of vowels that can be pronounced in different ways (ea, oo) follows. You then read an article from a website called the Climate Stories Project, in which six people from different continents talk about how they're affected by climate change. You listen to an interview with a meteorologist, and finally talk about your own experiences with climate change and extreme weather.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "GRAMMAR",
+          "subtitle": "future perfect and future continuous",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "VOCABULARY",
+          "subtitle": "weather",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "PRONUNCIATION",
+          "subtitle": "vowel sounds",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "READING",
+          "subtitle": "scanning for examples",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "LISTENING",
+          "subtitle": "understanding examples",
+          "type": "section"
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "What a Wonderful World",
+        "artist": "Louis Armstrong",
+        "why": "Environment + future perfect/continuous."
+      }
+    },
+    {
+      "file": 4,
+      "code": "4B",
+      "type": "lesson",
+      "title": "A risky business",
+      "sb_page": 40,
+      "tg_page": 66,
+      "topics": {},
+      "wb_page": 29,
+      "summary": "The topic is risk. In the first half, you listen to four people answering the question Are you a risk-taker? and then interview a partner to find out if they are. This is followed by the grammar focus on conditionals. You extend your knowledge of future time clauses and real conditionals, and see the variety of tenses that can be used besides the simple present and simple future. In Pronunciation, you look at linked phrases like and above all, as far as, etc. In the second half, you read an article about the rise in popularity of extreme sports, followed by a vocabulary focus on common collocations with take (take a risk, take seriously, etc.). You then go to the Writing Bank to focus on for-and-against essays. Finally, you watch a documentary about a young Irish surfer who talks about the risks and rewards of the sport.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "complete",
+          "label": "Completar a aula",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Roll the Dice",
+        "artist": "Bukowski/Macklemore",
+        "why": "Risk + conditionals."
+      }
+    },
+    {
+      "file": 4,
+      "code": "R&C 3&4",
+      "type": "review",
+      "title": "Review and Check 3 & 4",
+      "sb_page": 44,
+      "covers_files": [
+        3,
+        4
+      ],
+      "tg_page": 0,
+      "topics": {},
+      "summary": "Revisão dos Files 3 e 4: consolidação de gramática, vocabulário, pronúncia, listening e leitura. Inclui exercícios de Can you…?, listening, leitura e teste de comunicação oral.",
+      "summary_source": "topics",
+      "steps": [
+        {
+          "id": "vocab",
+          "label": "VOCABULARY",
+          "type": "section"
+        },
+        {
+          "id": "gram",
+          "label": "GRAMMAR",
+          "type": "section"
+        },
+        {
+          "id": "pron",
+          "label": "PRONUNCIATION",
+          "type": "section"
+        },
+        {
+          "id": "read",
+          "label": "CAN YOU understand this text?",
+          "type": "section"
+        },
+        {
+          "id": "listen",
+          "label": "CAN YOU understand these people?",
+          "type": "section"
+        }
+      ]
+    },
+    {
+      "file": 5,
+      "code": "5A",
+      "type": "lesson",
+      "title": "I’m a survivor unreal conditionals feelings",
+      "sb_page": 46,
+      "tg_page": 73,
+      "topics": {},
+      "wb_page": 32,
+      "summary": "The topic is survival. In the first half, you talk about how you think you'd react in an emergency and read about a reality TV show in which groups of participants have to survive on a remote uninhabited island. You then listen to an interview with one of the participants talking about the best and worst experiences on the island. The vocabulary focus is on feelings (devastated, stunned, etc.), and Pronunciation looks at word stress in three- and four-syllable adjectives. The second half is based on the true story (later made into a documentary for Discovery TV) of three young backpackers and their guide who got lost in the Amazon jungle. You read and listen to the story. The grammar focus is on unreal conditionals — the second and third conditionals. You'll have seen both structures before, but practice with them is essential, especially with third conditionals. Finally, you go to the Writing Bank and focus on writing a blog post.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "GRAMMAR",
+          "subtitle": "unreal conditionals",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "WRITING",
+          "subtitle": "a blog post",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "I Will Survive",
+        "artist": "Gloria Gaynor",
+        "why": "Survival + unreal conditionals."
+      }
+    },
+    {
+      "file": 5,
+      "code": "5B",
+      "type": "lesson",
+      "title": "Wish you were here",
+      "sb_page": 50,
+      "tg_page": 80,
+      "topics": {},
+      "wb_page": 35,
+      "summary": "The topics in this lesson are things you'd like to be different, or that annoy you in daily life, and regrets you have about the present and the past. They provide the context for learning to use I wish…. To make this easier to absorb, the grammar is split into two separate presentations with two visits to the Grammar Bank. This is a very difficult grammar point — especially the difference between wish + simple past and wish + would — so don't expect to nail it immediately. The first half opens with the grammar presentation of I wish + simple past, using different kinds of social media to express things you'd like to be different, plus wish + would to express annoyance. A vocabulary and speaking focus on different ways of expressing feelings follows — with a verb or with an -ed or -ing adjective (It annoys me / I'm annoyed / It's annoying). In the second half, you read an article in which a journalist asked people to tweet about their biggest regrets, followed by the second grammar focus using wish + past perfect for past regrets. Pronunciation focuses on sentence rhythm and intonation, and you then practice the new structure talking in small groups about some past regrets. The lesson ends with a poem about regret, which you listen to before writing your own.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "GRAMMAR",
+          "subtitle": "wish for the present / future",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "READING & SPEAKING",
+          "subtitle": "checking hypotheses",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "GRAMMAR",
+          "subtitle": "wish for past regrets",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Wish You Were Here",
+        "artist": "Pink Floyd",
+        "why": "Wish + regrets — título literal."
+      }
+    },
+    {
+      "file": 5,
+      "code": "CE3",
+      "type": "colloquial_english",
+      "episode": 3,
+      "title": "&5 waste",
+      "sb_page": 54,
+      "tg_page": 85,
+      "topics": {},
+      "wb_page": 38,
+      "summary": "In The Interview, the person interviewed is Candida Brady, a British journalist and filmmaker. In The Conversation, you watch three people discussing whether they think we'll ever be plastic-free. You then discuss this question and a couple of related ones, focusing on different ways that people respond to what another person has said.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "THE INTERVIEW",
+          "subtitle": "Part 1",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "LOOKING AT LANGUAGE",
+          "subtitle": "This exercise focuses on a common feature of spoken",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "THE CONVERSATION",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Plastic Love",
+        "artist": "Mariya Takeuchi",
+        "why": "Plastic / waste — tema da Colloquial."
+      }
+    },
+    {
+      "file": 6,
+      "code": "6A",
+      "type": "lesson",
+      "title": "Night night",
+      "sb_page": 56,
+      "tg_page": 89,
+      "topics": {},
+      "wb_page": 40,
+      "summary": "The context is several different angles on sleep. At the start of the first half, you listen to three people who all have some kind of sleep problem. Sentences from the listening provide the context for the grammar presentation, which reviews the use of used to for repeated past actions and introduces be used to and get used to (doing something) for actions or activities that have become, or are becoming, familiar. The pronunciation focus is on the /s/ and /z/ sounds in used to. You then read an article about the benefits of segmented sleep (sleeping for a few hours, waking up for a couple of hours, then going back to sleep), followed by short articles you read separately and tell a partner about — on what some people do in their waking hours in the middle of the night. The second half opens with a vocabulary focus on words and phrases related to sleep (yawn, be a light sleeper). A listening podcast by a sleep expert follows. The lesson ends with a speaking activity to recycle the new vocabulary.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "GRAMMAR",
+          "subtitle": "used to, be used to, get used to",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "PRONUNCIATION",
+          "subtitle": "/s/ and",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "READING",
+          "subtitle": "using contextual clues",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "VOCABULARY",
+          "subtitle": "sleep",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "LISTENING",
+          "subtitle": "understanding reasons",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Mr. Sandman",
+        "artist": "The Chordettes",
+        "why": "Sleep + used to / be used to."
+      }
+    },
+    {
+      "file": 6,
+      "code": "6B",
+      "type": "lesson",
+      "title": "Music to my ears",
+      "sb_page": 60,
+      "tg_page": 95,
+      "topics": {},
+      "wb_page": 43,
+      "summary": "The topic is music and how it affects our emotions. In the first half, you listen to an interview with a music psychologist who explains why we listen to music and how it can affect us emotionally. You then talk about what kinds of music you listen to when you're in certain moods. The lesson continues with a grammar focus on the uses of gerunds and infinitives. You review the basic rules about when to use a gerund or an infinitive after a verb, then learn about certain verbs (remember, try) that can be followed by either a gerund or an infinitive, but with a change in meaning. The vocabulary and pronunciation focus is on words related to music, including \"borrowed\" words such as cello, choir, and ballet, plus other foreign words used in English. The second half opens with a text about research on the importance of finding the right music for the right task. You then read what four surgeons say about playing music while they work. A speaking activity follows where you discuss some statements about music. The lesson ends with a documentary about pianist Isata Kanneh-Mason and her large family — all of whom are very talented musicians.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "complete",
+          "label": "Completar a aula",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Music to Watch Girls By",
+        "artist": "Andy Williams",
+        "why": "Music — tema literal + gerunds/infinitives."
+      }
+    },
+    {
+      "file": 6,
+      "code": "R&C 5&6",
+      "type": "review",
+      "title": "Review and Check 5 & 6",
+      "sb_page": 64,
+      "covers_files": [
+        5,
+        6
+      ],
+      "tg_page": 0,
+      "topics": {},
+      "summary": "Revisão dos Files 5 e 6: consolidação de gramática, vocabulário, pronúncia, listening e leitura. Inclui exercícios de Can you…?, listening, leitura e teste de comunicação oral.",
+      "summary_source": "topics",
+      "steps": [
+        {
+          "id": "vocab",
+          "label": "VOCABULARY",
+          "type": "section"
+        },
+        {
+          "id": "gram",
+          "label": "GRAMMAR",
+          "type": "section"
+        },
+        {
+          "id": "pron",
+          "label": "PRONUNCIATION",
+          "type": "section"
+        },
+        {
+          "id": "read",
+          "label": "CAN YOU understand this text?",
+          "type": "section"
+        },
+        {
+          "id": "listen",
+          "label": "CAN YOU understand these people?",
+          "type": "section"
+        }
+      ]
+    },
+    {
+      "file": 7,
+      "code": "7A",
+      "type": "lesson",
+      "title": "Let’s not argue",
+      "sb_page": 66,
+      "tg_page": 102,
+      "topics": {},
+      "wb_page": 46,
+      "summary": "The topic is arguments: what causes them, how to argue, and how to win online arguments. The first half opens with the grammar presentation: you listen to some people arguing, a context where past modals of deduction occur naturally. You've already learned present modals of deduction (must / might / can't + base form) and should (+ base form) for advice in Level 3. Here, you learn how to use these same modals to make deductions or speculate about the past (You must have taken a wrong turn, Somebody might have stolen it) and to make criticisms (You shouldn't have said that). Pronunciation focuses on weak forms of have in sentences with past modals (You should have told me). In Reading & Speaking, you read an article aimed at helping students sharing an apartment avoid arguments, and discuss the solutions. In the second half, you start by role-playing an argument. You then listen to a psychologist talking about how to argue in a sensible and controlled way, and put the advice into action in another role-play. Grammar in Context focuses on the use of would rather, followed by a vocabulary focus on verbs that are sometimes confused (argue and discuss, etc.). The lesson ends with an article about the best ways to win an online argument, which you put into practice by simulating an online discussion.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "GRAMMAR",
+          "subtitle": "past modals: must have, etc",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "PRONUNCIATION",
+          "subtitle": "weak form of have",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "VOCABULARY",
+          "subtitle": "verbs often confused",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Let's Call the Whole Thing Off",
+        "artist": "Ella Fitzgerald & Louis Armstrong",
+        "why": "Argumentos + past modals."
+      }
+    },
+    {
+      "file": 7,
+      "code": "7B",
+      "type": "lesson",
+      "title": "It’s all an act",
+      "sb_page": 70,
+      "tg_page": 108,
+      "topics": {},
+      "wb_page": 71,
+      "summary": "The general topic is body language. The first half opens with the grammar presentation on verbs of the senses and how they are used grammatically. You also look at uses of as (He works as a builder, She's as tall as me, I enjoy activities such as swimming and jogging, etc.). You then look at movie stills of actors in well-known movies and discuss who the people are, how they're feeling, and what they're doing, using She looks…, He looks like…, She looks as if…. You then practice using the same structures with sounds, feels, tastes, etc. In Reading & Listening, you read an exercise on how to improve your acting skills, then try it out. You listen to three more exercises and complete the instructions. Finally, you do the three acting exercises you listened to. In the second half, you extend your vocabulary related to the body — first reviewing facial features, then learning new body parts along with verbs and verb phrases connected to the body. You then do a speaking activity where you describe photos to each other and put the grammar and vocabulary into practice. The pronunciation focus is on silent consonants (e.g., in calf and thumb). You then read an article about how to spot a liar, and do a speaking activity where you have to figure out if your partner is telling the truth or lying. The lesson ends with you writing a description of a photo.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "GRAMMAR",
+          "subtitle": "verbs of the senses",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "VOCABULARY & SPEAKING",
+          "subtitle": "the body",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "PRONUNCIATION",
+          "subtitle": "silent consonants",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "WRITING",
+          "subtitle": "describing a photo",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Body Language",
+        "artist": "Queen",
+        "why": "Body language + verbs of the senses."
+      }
+    },
+    {
+      "file": 7,
+      "code": "CE4",
+      "type": "colloquial_english",
+      "episode": 4,
+      "title": "&7 performances",
+      "sb_page": 74,
+      "tg_page": 114,
+      "topics": {},
+      "wb_page": 52,
+      "summary": "In The Interview, the person interviewed is Simon Callow, a British actor, stage director, and author. In The Conversation, you watch three people discussing whether a live performance is always better than a recorded one. You then discuss this question and a couple of related ones, focusing on phrases for giving yourself time to think, checking if others agree with you, and phrases for apologizing for interrupting.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "THE INTERVIEW",
+          "subtitle": "Part 1",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "LOOKING AT LANGUAGE",
+          "subtitle": "This exercise looks at a feature of spoken English that is",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "THE CONVERSATION",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Theatre Mode",
+        "artist": "Various",
+        "why": "Performances — tema da Colloquial."
+      }
+    },
+    {
+      "file": 8,
+      "code": "8A",
+      "type": "lesson",
+      "title": "Cutting crime",
+      "sb_page": 76,
+      "tg_page": 118,
+      "topics": {},
+      "summary": "The topic is crime. The lesson opens with a Metropolitan Police podcast giving practical tips on how to stay safe in city streets. A vocabulary focus on crime and punishment follows, presented through a quiz based on information from an ex-burglar, plus a pronunciation focus on the different pronunciations of the letter u. The first half ends with you talking about local crime in your area, witnessing crimes, and any experience you have of crimes such as theft and vandalism. In the second half, some light-hearted news stories about crimes that went wrong provide a natural context for reviewing passive forms, and you also learn how to use the causative have (I had my bag stolen) and the structure it is said that… / he is said to…. You then read an article about a man who was a victim of identity theft after posting photos online. You discuss whether certain activities should be illegal and how perpetrators should be punished. The lesson ends with you writing a magazine article expressing your opinion on either the legality of downloading music or squatters' rights.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "2",
+          "number": 2,
+          "label": "VOCABULARY",
+          "subtitle": "crime and punishment",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "PRONUNCIATION & SPEAKING",
+          "subtitle": "the letter u",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "READING",
+          "subtitle": "understanding truth and lies",
+          "type": "section"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "label": "SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "label": "WRITING",
+          "subtitle": "expressing your opinion",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Smooth Criminal",
+        "artist": "Michael Jackson",
+        "why": "Crime + causative have."
+      }
+    },
+    {
+      "file": 8,
+      "code": "8B",
+      "type": "lesson",
+      "title": "Fake news",
+      "sb_page": 80,
+      "tg_page": 124,
+      "topics": {},
+      "summary": "The topic is the media, and in particular the very current issue of fake news. The first half opens with you talking about the different media you use to get the news and which sections of news interest you. You then listen to two stories from the press and read two more — providing the context to review the basic rules of reported speech. You then decide which story is in fact fake (invented). Extracts from the four stories introduce reporting verbs such as offer, convince, admit, deny, etc., which are followed by gerund or infinitive constructions. After the Grammar Bank, where you learn more reporting verbs, there's a pronunciation focus on word stress in two-syllable verbs. In the second half, the vocabulary of the media is developed in the Vocabulary Bank along with a speaking activity about the media. You then read an article about how to spot fake news. Finally, you watch a short documentary about the history of journalism.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "complete",
+          "label": "Completar a aula",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Dirty Laundry",
+        "artist": "Don Henley",
+        "why": "Media + fake news (clássico)."
+      }
+    },
+    {
+      "file": 8,
+      "code": "R&C 7&8",
+      "type": "review",
+      "title": "Review and Check 7 & 8",
+      "sb_page": 84,
+      "covers_files": [
+        7,
+        8
+      ],
+      "tg_page": 0,
+      "topics": {},
+      "summary": "Revisão dos Files 7 e 8: consolidação de gramática, vocabulário, pronúncia, listening e leitura. Inclui exercícios de Can you…?, listening, leitura e teste de comunicação oral.",
+      "summary_source": "topics",
+      "steps": [
+        {
+          "id": "vocab",
+          "label": "VOCABULARY",
+          "type": "section"
+        },
+        {
+          "id": "gram",
+          "label": "GRAMMAR",
+          "type": "section"
+        },
+        {
+          "id": "pron",
+          "label": "PRONUNCIATION",
+          "type": "section"
+        },
+        {
+          "id": "read",
+          "label": "CAN YOU understand this text?",
+          "type": "section"
+        },
+        {
+          "id": "listen",
+          "label": "CAN YOU understand these people?",
+          "type": "section"
+        }
+      ]
+    },
+    {
+      "file": 9,
+      "code": "9A",
+      "type": "lesson",
+      "title": "Good business?",
+      "sb_page": 86,
+      "tg_page": 130,
+      "topics": {},
+      "summary": "The topic and lexical area is business and advertising. In the first half, the focus is on honesty (or dishonesty) in advertising. You look at words and phrases related to advertising, then discuss famous misleading advertisements. A speaking activity follows where you discuss various aspects of advertising in general, including language like viral ads, logos, and pop-ups. You then listen to a radio show about how companies try to trick us through misleading advertisements. This leads into the grammar: clauses of contrast after expressions like Even though…, In spite of…, etc., and clauses of purpose after expressions like so that…, in order to…, etc. The advertising and business topic continues in the second half, where you read a chapter from a book about the razor-and-blades business model — developed after King Camp Gillette invented the disposable razor blade. In Vocabulary, you look at words and phrases related to business, followed by a pronunciation focus on how stress changes in words that can be used both as nouns and verbs (export, increase, etc.). You finish by talking about aspects of business in your country or region.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "VOCABULARY & SPEAKING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "LISTENING",
+          "subtitle": "understanding explanations",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "GRAMMAR",
+          "subtitle": "clauses of contrast and purpose",
+          "type": "section"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "label": "READING",
+          "subtitle": "dealing with an authentic text",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "VOCABULARY",
+          "subtitle": "business",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Money for Nothing",
+        "artist": "Dire Straits",
+        "why": "Business + advertising."
+      }
+    },
+    {
+      "file": 9,
+      "code": "9B",
+      "type": "lesson",
+      "title": "Super cities",
+      "sb_page": 90,
+      "tg_page": 136,
+      "topics": {},
+      "summary": "The context is cities. In the first half, you read about author and philosopher Alain de Botton's vision on how to make a modern city attractive to live in. You then listen to five people who talk about the most beautiful city they've ever been to. You discuss which of the places mentioned you'd like to visit, plus your favorite and least favorite cities. The grammar focus follows, where you extend your knowledge of uncountable nouns (luggage, furniture, etc.) and plural nouns (news, politics). The first half finishes with a speaking game to practice the grammar. In the second half, you read an article about a city in South Korea designed as a showpiece of modern urban design. A speaking activity follows on modern cities and the changes population growth might bring. A vocabulary focus on word building with prefixes and suffixes follows, with a pronunciation focus on word stress. You then practice the vocabulary by discussing different aspects of cities and regions you know. The lesson ends with you writing a report on the features of a city you know well.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "READING",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "GRAMMAR",
+          "subtitle": "uncountable and plural nouns",
+          "type": "section"
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "label": "WRITING",
+          "subtitle": "a report",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "New York, New York",
+        "artist": "Frank Sinatra",
+        "why": "Cities + uncountable nouns."
+      }
+    },
+    {
+      "file": 9,
+      "code": "CE5",
+      "type": "colloquial_english",
+      "episode": 5,
+      "title": "&9 advertising",
+      "sb_page": 94,
+      "tg_page": 142,
+      "topics": {},
+      "wb_page": 66,
+      "summary": "In The Interview, the person interviewed is George Tannenbaum, an ad executive who owns an ad agency and is the director of an international one. In The Conversation, you watch three people discussing whether people are influenced by advertising campaigns. You then discuss this question and a couple of related ones, focusing on correcting something someone has said and phrases to make something clearer.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "1",
+          "number": 1,
+          "label": "THE INTERVIEW",
+          "subtitle": "Part 1",
+          "type": "section"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "label": "LOOKING AT LANGUAGE",
+          "subtitle": "",
+          "type": "section"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "label": "THE CONVERSATION",
+          "subtitle": "",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Don't Stand So Close to Me",
+        "artist": "The Police",
+        "why": "Advertising influence — tema CE."
+      }
+    },
+    {
+      "file": 10,
+      "code": "10A",
+      "type": "lesson",
+      "title": "Science fact science fiction",
+      "sb_page": 96,
+      "tg_page": 146,
+      "topics": {},
+      "summary": "The topic is science. In the first half, you start by reviewing science-related vocabulary through a quiz of questions often asked by children that parents struggle to answer, then listen to an expert answering each question. The vocabulary focus is on more words related to science, and Pronunciation deals with changing stress in word families (science, scientist, scientific). The first half ends with you interviewing a partner about science-related issues. In the second half, you read about the plausibility of some ideas from science fiction and whether they might actually become reality. The grammar — review and extension of the use of a variety of quantifiers — is presented through sentences from the article and finally practiced in another science quiz.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "3",
+          "number": 3,
+          "label": "SPEAKING",
+          "subtitle": "The vocabulary from 2 is now put into practice in this",
+          "type": "section"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "label": "GRAMMAR",
+          "subtitle": "quantifiers: all, every, both, etc",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Rocket Man",
+        "artist": "Elton John",
+        "why": "Science / sci-fi + quantifiers."
+      }
+    },
+    {
+      "file": 10,
+      "code": "10B",
+      "type": "lesson",
+      "title": "Free speech",
+      "sb_page": 100,
+      "tg_page": 151,
+      "topics": {},
+      "summary": "The topic of this final lesson is public speaking. In the first half, you start by listening to a program about the controversy surrounding Neil Armstrong's famous words when he stepped on the moon (Did he make a mistake by omitting an indefinite article?). This leads into the Grammar, where you review and extend your knowledge of the use and non-use of the definite and indefinite articles. You then read a short text about what makes a good speech according to Cicero, before focusing on eight sound bites from famous speeches. You then read about the circumstances in which four of the speeches were written. You discuss which speech you'd most like to have heard, great speakers you know of, and past or present politicians who are either good or bad speakers. In the second half, you listen to a radio show in which an expert gives tips for giving a good presentation, and a young woman talks about an international public-speaking competition she took part in. The vocabulary focus is on word pairs joined with and and or (sick and tired, all or nothing). Then in Pronunciation, you learn how pausing in the correct places and stressing sentences correctly will make you much easier to understand if you're giving a presentation in English. You then have the chance to give a short presentation. The lesson ends with a documentary on speaking in public.",
+      "summary_source": "tg",
+      "steps": [
+        {
+          "id": "complete",
+          "label": "Completar a aula",
+          "type": "section"
+        }
+      ],
+      "music": {
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "why": "Public speech mais famoso da história pop + articles."
+      }
+    },
+    {
+      "file": 10,
+      "code": "R&C 9&10",
+      "type": "review",
+      "title": "Review and Check 9 & 10",
+      "sb_page": 104,
+      "covers_files": [
+        9,
+        10
+      ],
+      "tg_page": 0,
+      "topics": {},
+      "summary": "Revisão dos Files 9 e 10: consolidação de gramática, vocabulário, pronúncia, listening e leitura. Inclui exercícios de Can you…?, listening, leitura e teste de comunicação oral.",
+      "summary_source": "topics",
+      "steps": [
+        {
+          "id": "vocab",
+          "label": "VOCABULARY",
+          "type": "section"
+        },
+        {
+          "id": "gram",
+          "label": "GRAMMAR",
+          "type": "section"
+        },
+        {
+          "id": "pron",
+          "label": "PRONUNCIATION",
+          "type": "section"
+        },
+        {
+          "id": "read",
+          "label": "CAN YOU understand this text?",
+          "type": "section"
+        },
+        {
+          "id": "listen",
+          "label": "CAN YOU understand these people?",
+          "type": "section"
+        }
+      ]
+    }
+  ],
+  "sb_pdf_offset": 1,
+  "tg_pdf_offset": 0,
+  "wb_pdf_offset": 0
+}
